@@ -45,10 +45,10 @@ interface Book {
   publishedYear: number;
 }
 
-function toggleReadStatus(book: Book, isRead: boolean = true): Book & { isRead: boolean } {
+function toggleReadStatus(book: Book): Book & { isRead: boolean } {
   return {
     ...book,
-    isRead
+    isRead: true
   };
 }
 
