@@ -7,11 +7,11 @@ This project contains solutions to TypeScript problem-solving tasks and blog wri
 
 ## Files Included
 
-- [solutions.ts](B7A1-Assignment/solutions.ts) → Contains all 7 coding problems
-- [blog-1.md](B7A1-Assignment/blog-1.md) → TypeScript `any` vs `unknown`
-- [blog-2.md](B7A1-Assignment/blog-2.md) → Pick and Omit utility types
-- [blog-3.md](B7A1-Assignment/blog-3.md) → Generics in TypeScript
-- [blog-4.md](B7A1-Assignment/blog-4.md) → OOP pillars in TypeScript
+- [solutions.ts](solutions.ts) → Contains all 7 coding problems
+- [blog-1.md](blog-1.md) → TypeScript `any` vs `unknown`
+- [blog-2.md](blog-2.md) → Pick and Omit utility types
+- [blog-3.md](blog-3.md) → Generics in TypeScript
+- [blog-4.md](blog-4.md) → OOP pillars in TypeScript
 
 ---
 
